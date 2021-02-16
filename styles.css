@@ -1,0 +1,71 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #151515;
+}
+
+
+.jumbotron {
+    padding:  7vh 20px 9vh 20px;
+    background-color: #151515;
+}
+
+.jumbotron h1 {
+    letter-spacing: 1.2px;
+    font-family: 'Work Sans', sans-serif;
+    color:#FFFF;
+    font-size: 2rem;
+    padding-bottom: 1rem;
+}
+
+.heading-Secondary {
+    margin-bottom: 1rem;
+    letter-spacing: 1.2px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.my-col {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+#bioBox{
+    display:none;
+}
+
+#heading-content, .comic-title {
+    font-size: 1.4rem;
+}
+
+.card img {
+    width: 100%;
+}
+
+.comic-img {
+    width: 100%;
+    border-radius: 2px;
+    box-shadow: 4px 4px 5px #101010;
+    transition:  all .3s ease;
+}
+
+.comic-img:focus {
+    border: 5px solid gold;
+    box-shadow: none;
+}
+
+.hover:hover{
+    z-index: 1000;
+    box-shadow: 6px 6px 9px #707070;
+    transform: scale(1.1) translateY(-1.5rem);
+    cursor:pointer;
+}
+
+.attribution {
+    padding: .5rem 0 0 0;
+    font-size: .8rem;
+    border-top: 2px solid black;
+}
+
+#loading {
+    visibility: hidden;
+}
