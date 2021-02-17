@@ -1,6 +1,6 @@
 # Marvel Search Engine
 
-A Marvel Comic search engine using the Marvel API [Marvel API](https://developer.marvel.com/documentation/getting_started).
+A Marvel Comic search engine using the [Marvel API](https://developer.marvel.com/documentation/getting_started).
 
 
 ## Description
