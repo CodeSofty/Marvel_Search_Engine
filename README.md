@@ -12,7 +12,7 @@ Each event is limited by the API to 20 results only.
 Each series is limited by the API to 20 results only.
 
 ### Rate Limit: 
-Limted to 3000 calls per day.
+Limited to 3000 calls per day.
 
 
 ### Acknowledgments
